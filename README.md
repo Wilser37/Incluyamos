@@ -83,27 +83,21 @@ Una plataforma que permite a la comunidad:
 ## 📸 Capturas de Pantalla
 
 ### Mapa Principal
-<!-- Insertar imagen del mapa -->
-![Mapa Principal](<img width="357" height="485" alt="Image" src="https://github.com/user-attachments/assets/0fb6920b-7065-48cc-9501-783498d5b152" />)
+![Mapa Principal](https://github.com/user-attachments/assets/0fb6920b-7065-48cc-9501-783498d5b152)
 
 ### Registro de Espacio
-<!-- Insertar imagen del formulario -->
-![Formulario de Registro](<img width="417" height="868" alt="Image" src="https://github.com/user-attachments/assets/eff323d4-ce5f-4a95-bc87-5cc9d224eda4" />)
+![Formulario de Registro](https://github.com/user-attachments/assets/eff323d4-ce5f-4a95-bc87-5cc9d224eda4)
 
 ### Sistema de Calificación
-<!-- Insertar imagen de calificación -->
-![Calificación](<img width="410" height="866" alt="Image" src="https://github.com/user-attachments/assets/986ab84d-32e5-4224-8acf-c52c40554e60" />)
+![Calificación](https://github.com/user-attachments/assets/986ab84d-32e5-4224-8acf-c52c40554e60)
 
 ### Perfil de Usuario
-<!-- Insertar imagen del perfil -->
-![Perfil](<img width="382" height="694" alt="Image" src="https://github.com/user-attachments/assets/bd6409c8-ac39-4754-b274-4a8a234d3530" />)
+![Perfil](https://github.com/user-attachments/assets/bd6409c8-ac39-4754-b274-4a8a234d3530)
 
 ### Misiones y Gamificación
-<!-- Insertar imagen de misiones -->
-![Misiones](<img width="388" height="766" alt="Image" src="https://github.com/user-attachments/assets/1d34558e-475b-42b7-9167-24e6c7cf4c8f" />)
+![Misiones](https://github.com/user-attachments/assets/1d34558e-475b-42b7-9167-24e6c7cf4c8f)
 
 ### Ranking
-<!-- Insertar imagen del ranking -->
 ![Ranking](docs/images/ranking-mensual.png)
 *Tablero de líderes mensuales*
 
@@ -280,10 +274,10 @@ Usuario → Abre App → Geolocalización → Mapa
 
 | Rol | Nombre | GitHub |
 |-----|--------|--------|
-| 🎨 UX/UI Designer | [Alexander] | [@usuario](#) |
-| 💻 Developer | [Willian] | [@usuario](#) |
-| 🧪 Tester | [Robinson] | [@usuario](#) |
-| 📊 Product Owner | [Robinson] | [@usuario](#) |
+| 🎨 UX/UI Designer | [] | [@usuario](#) |
+| 💻 Developer | [] | [@usuario](#) |
+| 🧪 Tester | [] | [@usuario](#) |
+| 📊 Product Owner | [] | [@usuario](#) |
 
 ---
 
