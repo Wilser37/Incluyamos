@@ -285,10 +285,10 @@ Usuario → Abre App → Geolocalización → Mapa
 
 | Rol | Nombre | GitHub |
 |-----|--------|--------|
-| 🎨 UX/UI Designer | [] | [@usuario](#) |
-| 💻 Developer | [] | [@usuario](#) |
-| 🧪 Tester | [] | [@usuario](#) |
-| 📊 Product Owner | [] | [@usuario](#) |
+| 🎨 UX/UI Designer | [Alexander] | [@usuario](#) |
+| 💻 Developer | [Willian] | [@usuario](#) |
+| 🧪 Tester | [Robinson] | [@usuario](#) |
+| 📊 Product Owner | [Robinson] | [@usuario](#) |
 
 ---
 
