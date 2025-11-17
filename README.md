@@ -84,28 +84,23 @@ Una plataforma que permite a la comunidad:
 
 ### Mapa Principal
 <!-- Insertar imagen del mapa -->
-![Mapa Principal](docs/images/mapa-principal.png)
-*Vista principal del mapa con espacios accesibles marcados*
+![Mapa Principal](<img width="357" height="485" alt="Image" src="https://github.com/user-attachments/assets/0fb6920b-7065-48cc-9501-783498d5b152" />)
 
 ### Registro de Espacio
 <!-- Insertar imagen del formulario -->
-![Formulario de Registro](docs/images/formulario-registro.png)
-*Formulario para añadir nuevos espacios al mapa*
+![Formulario de Registro](<img width="417" height="868" alt="Image" src="https://github.com/user-attachments/assets/eff323d4-ce5f-4a95-bc87-5cc9d224eda4" />)
 
 ### Sistema de Calificación
 <!-- Insertar imagen de calificación -->
-![Calificación](docs/images/sistema-calificacion.png)
-*Interfaz de calificación por categorías de accesibilidad*
+![Calificación](<img width="410" height="866" alt="Image" src="https://github.com/user-attachments/assets/986ab84d-32e5-4224-8acf-c52c40554e60" />)
 
 ### Perfil de Usuario
 <!-- Insertar imagen del perfil -->
-![Perfil](docs/images/perfil-usuario.png)
-*Perfil del usuario con puntos, insignias y estadísticas*
+![Perfil](<img width="382" height="694" alt="Image" src="https://github.com/user-attachments/assets/bd6409c8-ac39-4754-b274-4a8a234d3530" />)
 
 ### Misiones y Gamificación
 <!-- Insertar imagen de misiones -->
-![Misiones](docs/images/misiones-semanales.png)
-*Panel de misiones semanales y sistema de puntos*
+![Misiones](<img width="388" height="766" alt="Image" src="https://github.com/user-attachments/assets/1d34558e-475b-42b7-9167-24e6c7cf4c8f" />)
 
 ### Ranking
 <!-- Insertar imagen del ranking -->
