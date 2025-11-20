@@ -83,33 +83,32 @@ Una plataforma que permite a la comunidad:
 ## 📸 Capturas de Pantalla
 
 ### Mapa Principal
-![Mapa Principal](https://github.com/user-attachments/assets/0fb6920b-7065-48cc-9501-783498d5b152)
+![Mapa Principal](https://raw.githubusercontent.com/Wilser37/Incluyamos/2f31e2739795c0577bc57ed9c61e82cf84d64874/1%20mapa.png)
 
 ---
 
 ### Registro de Espacio
-![Formulario de Registro](https://github.com/user-attachments/assets/eff323d4-ce5f-4a95-bc87-5cc9d224eda4)
+![Registro de Espacio](https://raw.githubusercontent.com/Wilser37/Incluyamos/2f31e2739795c0577bc57ed9c61e82cf84d64874/2%20interfaz.png)
 
 ---
 
 ### Sistema de Calificación
-![Calificación](https://github.com/user-attachments/assets/986ab84d-32e5-4224-8acf-c52c40554e60)
+![Sistema de Calificación](https://raw.githubusercontent.com/Wilser37/Incluyamos/2f31e2739795c0577bc57ed9c61e82cf84d64874/3%20sistema%20de%20calificacion.png)
 
 ---
 
 ### Perfil de Usuario
-![Perfil](https://github.com/user-attachments/assets/bd6409c8-ac39-4754-b274-4a8a234d3530)
+![Perfil de Usuario](https://raw.githubusercontent.com/Wilser37/Incluyamos/2f31e2739795c0577bc57ed9c61e82cf84d64874/4%20perfil.png)
 
 ---
 
 ### Misiones y Gamificación
-![Misiones](https://github.com/user-attachments/assets/1d34558e-475b-42b7-9167-24e6c7cf4c8f)
+![Misiones y Gamificación](https://raw.githubusercontent.com/Wilser37/Incluyamos/2f31e2739795c0577bc57ed9c61e82cf84d64874/5%20misiones.png)
 
 ---
 
 ### Ranking
-![Ranking](docs/images/ranking-mensual.png)
-*Tablero de líderes mensuales*
+![Ranking](https://raw.githubusercontent.com/Wilser37/Incluyamos/2f31e2739795c0577bc57ed9c61e82cf84d64874/6%20ranking.png)
 
 ---
 ---
@@ -287,7 +286,7 @@ Usuario → Abre App → Geolocalización → Mapa
 |-----|--------|--------|
 | 🎨 UX/UI Designer | [Alexander] | [@usuario](#) |
 | 💻 Developer | [Willian] | [@usuario](#) |
-| 🧪 Tester | [Robinson] | [@usuario](#) |
+| 🧪 Tester | [Willian] [Robinson] [Alexander] | [@usuario](#) |
 | 📊 Product Owner | [Robinson] | [@usuario](#) |
 
 ---
